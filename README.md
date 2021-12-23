@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paandu16
-- 👀 I’m interested in Elctronics devices 
-- 🌱 I’m currently learning Guntur
+- 👀 I’m interested in @VLSI 
+- 🌱 I’m currently learning @Guntur
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me 9052330557
 
